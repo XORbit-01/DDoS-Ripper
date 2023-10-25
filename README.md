@@ -77,7 +77,7 @@ Thanks.
 
 For any kind of help, support, payment, suggetion and request ask me on Telegram:
 
-Or discord <a href="https://discord.gg/EB5TfzVv"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=discord"></a>
+Or discord <a href="https://discord.gg/EB5TfzVv"><img src="logo=discord"></a>
 
 ## Follow on:
 <p align="left">
