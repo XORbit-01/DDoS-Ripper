@@ -77,11 +77,11 @@ Thanks.
 
 For any kind of help, support, payment, suggetion and request ask me on Telegram:
 
-Or Facebook <a href="https://www.facebook.com/aduri.knox01/"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=discord"></a>
+Or discord <a href="https://discord.gg/EB5TfzVv"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=discord"></a>
 
 ## Follow on:
 <p align="left">
-<a href="https://github.com/palahsu"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+<a href="https://github.com/XORbit-01"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p><p align="left">
 
 </p><p align="left">
